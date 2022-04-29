@@ -7,4 +7,4 @@
 
 #### Laser cutting
 * `skp_to_dxf.rbz` 플러인을 설치한다. <br>
-![Alt text](/creative-lab/images/sketchup-plugin-install-img1.jpg "Optional title")
+
